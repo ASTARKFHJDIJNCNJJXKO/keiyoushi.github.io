@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
 ---
 # SPDX-License-Identifier: Apache-2.0
 title: Getting started
